@@ -8,7 +8,7 @@ Este documento detalla el paso a paso completo del desarrollo del proyecto, inte
 El proyecto comenzó en la plataforma web de GitHub, donde se configuró el repositorio con el nombre AI_Project_PA, seleccionando visibilidad pública y activando la casilla para inicializarlo con un archivo README base.
 
 * *Evidencia del proceso:*
-![Fase 1: Creación del repositorio](captura1.jpeg)
+![Fase 1: Creación del repositorio](Captura1.jpeg)
 
 ---
 
